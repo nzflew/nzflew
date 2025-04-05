@@ -42,4 +42,11 @@
 192.168.1.232 gateway.docker.internal
 # To allow the same kube context to work on the host and the container:
 127.0.0.1 kubernetes.docker.internal
+192.168.1.81 transmission.homelab
+192.168.1.81 sonarr.homelab
+192.168.1.81 radarr.homelab
+192.168.1.81 prowlarr.homelab
+192.168.1.81 ittools.homelab
+192.168.1.81 frigate.homelab
+192.168.1.81 homelab
 # End of section
