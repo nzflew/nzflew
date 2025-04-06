@@ -48,5 +48,6 @@
 192.168.1.81 prowlarr.homelab
 192.168.1.81 ittools.homelab
 192.168.1.81 frigate.homelab
+192.168.1.81 plex.homelab
 192.168.1.81 homelab
 # End of section
